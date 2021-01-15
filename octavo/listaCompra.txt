@@ -1,0 +1,2 @@
+1,primer item,0.5
+2,segundo item,1.0

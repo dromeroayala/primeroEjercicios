@@ -1,0 +1,2 @@
+Item:id= 1, descripcion= primer item, precio= 0.5
+Item:id= 2, descripcion= segundo item, precio= 1.0
